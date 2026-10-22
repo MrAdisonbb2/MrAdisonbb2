@@ -29,7 +29,7 @@ Hey, I'm **Adisonbb2** — a developer exploring code, creative ideas, and digit
 - 🏍️ **Rider Mode:** Attempting to become a Kamen Rider.
 - 🌑 **Dark Fantasy:** Drawn to mysterious worlds, lore, and atmospheric design.
 - 🌃 **Cyberpunk:** Neon lights, futuristic interfaces, and experimental projects.
-- 🧪 **Current Quest:** `Attemping to go Kamenrider`
+- 🧪 **Current Quest:** `Attemping to go Kamen Rider`
 
 ---
 
