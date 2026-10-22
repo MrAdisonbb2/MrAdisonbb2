@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,35:25104A,70:00E5FF,100:FF2D95&text=Adisonbb2&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Rider%20of%20the%20Neon%20Abyss&descAlignY=60&descSize=18&animation=fadeIn" alt="Neon cyberpunk banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,35:25104A,70:00E5FF,100:FF2D95&text=MrAdisonbb2&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Rider%20of%20the%20Neon%20Abyss&descAlignY=60&descSize=18&animation=fadeIn" alt="Neon cyberpunk banner" />
 
 ### ⚡ TRANSFORM • HACK THE NIGHT • DEFY FATE ⚡
 
