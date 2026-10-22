@@ -46,10 +46,10 @@ Hey, I'm **Adisonbb2** — a developer exploring code, creative ideas, and digit
 
 | Attribute | Details |
 |---|---|
-| 🧠 Main skills | `YOUR_MAIN_SKILLS` |
-| 🛠️ Tools | `YOUR_TOOLS` |
-| 📚 Learning | `WHAT_YOU_ARE_LEARNING` |
-| 🎯 Next objective | `YOUR_NEXT_GOAL` |
+| 🧠 Main skills | `Data Sci, Coding, Automation System` |
+| 🛠️ Tools | `n8n, Docker, Python` |
+| 📚 Learning | `Automation System, Data Sci, Machine Learning, Deep Learning, Agentic AI` |
+| 🎯 Next objective | `Study abroad, Becoming a Researcher` |
 
 ---
 
