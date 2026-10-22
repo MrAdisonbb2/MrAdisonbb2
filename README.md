@@ -39,7 +39,7 @@ Hey, I'm **Adisonbb2** — a developer exploring code, creative ideas, and digit
 
 <!-- Replace or remove icons that don't match your skills. -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,git,github,docker,vscode&theme=dark" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,git,github,docker,n8n,vscode&theme=dark" alt="Technology icons" />
 </div>
 
 **Current loadout**
@@ -47,7 +47,7 @@ Hey, I'm **Adisonbb2** — a developer exploring code, creative ideas, and digit
 | Attribute | Details |
 |---|---|
 | 🧠 Main skills | `Data Sci, Coding, Automation System` |
-| 🛠️ Tools | `n8n, Docker, Python` |
+| 🛠️ Tools | `n8n, Docker, Python, Visual Studio Code` |
 | 📚 Learning | `Automation System, Data Sci, Machine Learning, Deep Learning, Agentic AI` |
 | 🎯 Next objective | `Study abroad, Becoming a Researcher` |
 
