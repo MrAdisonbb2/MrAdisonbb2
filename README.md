@@ -39,7 +39,7 @@ Hey, I'm **Adisonbb2** — a developer exploring code, creative ideas, and digit
 
 <!-- Replace or remove icons that don't match your skills. -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,git,github,docker,n8n,vscode&theme=dark" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,git,github,docker,N8N,vscode&theme=dark" alt="Technology icons" />
 </div>
 
 **Current loadout**
