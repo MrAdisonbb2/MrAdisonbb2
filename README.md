@@ -26,7 +26,6 @@
 
 Hey, I'm **Adisonbb2** — a developer exploring code, creative ideas, and digital worlds.
 
-- 🏍️ **Rider Mode:** Attempting to become a Kamen Rider.
 - 🌑 **Dark Fantasy:** Drawn to mysterious worlds, lore, and atmospheric design.
 - 🌃 **Cyberpunk:** Neon lights, futuristic interfaces, and experimental projects.
 - 🧪 **Current Quest:** `Attemping to go Kamen Rider`
@@ -63,7 +62,7 @@ Hey, I'm **Adisonbb2** — a developer exploring code, creative ideas, and digit
 
 ### 変身 — HENSHIN!
 
-*Every bug is a monster. Every commit is another battle. Keep moving forward.*
+*Every bug (that I made) is a monster. Every commit is another battle. Keep moving forward.*
 
 </div>
 
@@ -87,8 +86,7 @@ Hey, I'm **Adisonbb2** — a developer exploring code, creative ideas, and digit
 
 ## 🗡️ `05 // QUEST LOG`
 
-- [ ] **Main Quest:** `YOUR_MAIN_PROJECT`
-- [ ] **Side Quest:** Learn a new technology.
+- [ ] **Main Quest:** Learn a new technology and become a researcher.
 - [ ] **Boss Battle:** Solve a difficult problem.
 - [ ] **Next Transformation:** Build something worth remembering.
 
