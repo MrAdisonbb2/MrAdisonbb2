@@ -45,9 +45,9 @@ Hey, I'm **Adisonbb2** — a developer exploring code, creative ideas, and digit
 
 | Attribute | Details |
 |---|---|
-| 🧠 Main skills | `Data Sci, Coding, Automation System` |
+| 🧠 Main skills | `Data Sci, Coding, Automation System, AI Engineering` |
 | 🛠️ Tools | `n8n, Docker, Obsidian, Visual Studio Code` |
-| 📚 Learning | `Automation System, Data Sci, Machine Learning, Deep Learning, Agentic AI` |
+| 📚 Learning | `Automation System, AI Engineering, Data Sci, Machine Learning, Deep Learning, Agentic AI` |
 | 🎯 Next objective | `Study abroad, Becoming a Researcher` |
 
 ---
